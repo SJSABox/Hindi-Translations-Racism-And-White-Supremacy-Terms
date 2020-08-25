@@ -283,7 +283,13 @@ Chhupaa hua gorepan kii ahmiyat
 	रहने की जगह में भेदभाव	
 	Rahne kii jagah meN bhedbhaav
 
-## Graphics
+## Want to Contribute?
+
+See a spelling or syntax error? Want to suggest an alternative translation or offer a more relevant reference resources? We're happy to hear from you! Use the link below to submit a correction or comment.
+
+👉🏿 [Get in Touch!](https://github.com/SJSABox/Hindi-Translations-Racism-And-White-Supremacy-Terms/issues/new?assignees=&labels=&template=corrections---suggestions.md&title=%5BSuggestion%5D) 👈🏻
+                         
+For more information on contributing to this repository please consult the contribution guidelines.
 
 ## Updates
 We will occasionally add words, update translations, and make other updates to this page to maintain this reference. 
