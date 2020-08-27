@@ -9,6 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Below, each term is translated individually in the Devanagari script for Hindi, then transliterated into English for easier reading. Some terms also have an 📌 expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links 🔗 have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians in North America 🌎. 
 
+### [Hindi Graphic](img/Hindi.png) | [Hindi Transliterated Graphic](img/Hindi%20Transliteration.png) | [Original Graphic]()
+
 ## Overt White Supremacy  - खुले-आम गोरेपन की अहमियत  - Khule-aam gorepan kii ahmiyat
 
 ### 1. Lynching
