@@ -16,42 +16,102 @@ Below, each term is translated individually in the Devanagari script for Hindi, 
 ### 1. Lynching
 	मॉब-लिंचिंग
 	Mob lynching 
+	
+🔗 References: 
+
+[“The oppression doesn’t end, it adapts”](https://www.vox.com/21295670/robert-fuller-malcolm-harsch-hanging-history-lynching) 
+
+[Terror Lynching in America](https://www.youtube.com/watch?v=aS61QFzk2tI) 
 
 ### 2. Hate crimes
 	भेद-भाव के ज़ुल्म, अत्याचार
 	Bhed-bhaav ke zulm, atyaachaar 
+	
+🔗 References: 
+
+[Hate Crimes Explained](https://www.splcenter.org/20180415/hate-crimes-explained)
+
+[Black Americans still are victims of hate crimes more than any other group](https://publicintegrity.org/politics/black-americans-still-are-victims-of-hate-crimes-more-than-any-other-group/)
+
+[Kansas man sentenced to life for killing Indian engineer in a bar](https://www.nbcnews.com/news/asian-america/kansas-man-sentenced-life-prison-hate-crime-shooting-n898361)
 
 ### 3. Blackface
 	काले लोगों की सूरत को नक़ल करके घोर अपमान करना
 	Kaale logon ki surat ko nakal karke ghor apmaan karnaa
+	
+🔗 References:
+
+[Why is Blackface Offensive](https://www.vox.com/2014/10/29/7089591/why-is-blackface-offensive-halloween-costume)
+
+[Blackface, Staple of Arab Comedy](https://www.nytimes.com/2019/08/18/world/middleeast/blackface-arab-tv-racist.html)
+
+[Brownface at Bon Appetit](https://www.insider.com/bon-appetit-editor-adam-rapoport-resigned-dressed-puerto-rican-photo-2020-6)
 
 ### 4. The N-word
 	ख़राब गाली जो ‘न’ से है
 	Xaraab gaalii jo N se hai
 
+🔗 References:
+
+[When Latinx People Use the N-Word](https://www.nytimes.com/2019/10/17/opinion/gina-rodriguez-n-word-latinx.html)
+
+[BBC apologizes for use of N-word in news report](https://www.cnn.com/2020/08/10/media/bbc-apology-offensive-language-scli-intl-gbr/index.html)
+
 ### 5. Swastikas
 	उल्टा स्वस्तिक निशान - जो नफ़रत की निशानी है
 	Ulta Swastik Nishaan - jo nafrat ki nishaani hai
+
+🔗 References:
 
 ### 6. Neo-Nazis
 	एक गैंग/ सोच जो पुरानी नफ़रतों को दोहरा रही है
 	Ek gang/soch jo purani nafratoN ko dohraa rahii hai
 
+🔗 References:
+
+[Self-described Nazis and white supremacists are running as Republicans across the country](https://www.vox.com/2018/7/9/17525860/nazis-russell-walker-arthur-jones-republicans-illinois-north-carolina-virginia)
+
 ### 7. Burning Crosses
 	सलीबें जलाकर जान-लेवा धमकी देना
 	Saleeben jalaakar jaan leva dhamkii dena (jaativaad apraadh/ KKK)
+
+🔗 References:
+
+[A Decision on Cross Burning](https://www.nytimes.com/2003/04/08/opinion/a-decision-on-cross-burning.html)
+
+[Virginia Man Accused of Burning Cross on Lawn of Black Teen Protest Organizer](https://www.nbcwashington.com/news/local/virginia-man-charged-in-connection-with-cross-burning/2345942/)
+
+[Authorities investigate cross burning in Alabama](https://thehill.com/homenews/state-watch/501477-authorities-investigate-cross-burning-in-alabama)
 
 ### 8. Racist Jokes
 	नस्लवादी या जातिवादी खिल्ली उड़ाना
 	Nasalvadi yaa jaativaadii khilli uRaana)
 
+🔗 References:
+
+[She didn’t laugh at racist jokes. Her coach said she didn’t have the right ‘chemistry’ for the team.](https://www.washingtonpost.com/local/public-safety/student-refuses-to-let-the-bullies-win/2017/04/24/623187e4-1ba1-11e7-bcc2-7d1a0973e7b2_story.html)
+
+[Asian American racism is the unfunny joke the comedy world needs to reckon with](https://www.vox.com/the-highlight/2020/1/15/21065939/comedy-racism-asian-american-rosie-odonnell-shane-gillis-awkwafina-ali-wong)
+
+[The controversy over YouTube star PewDiePie and his anti-Semitic “jokes,” explained](https://www.vox.com/culture/2017/2/17/14613234/pewdiepie-nazi-satire-alt-right)
+
 ### 9. Racial Slurs
 	नस्लीय/जातिवादी गालियां
 	Nasliiy/Jaativaadi Gaaliyaan
 
+🔗 References:
+
+[When Slang Becomes a Slur](https://www.theatlantic.com/entertainment/archive/2014/06/a-linguist-on-why-redskin-is-racist-patent-overturned/373198/)
+
 ### 10. KKK
 	के के के संगठन/ गोरे लोगों की अहमियत का अपराधीय गैंग
 	KKK Sangathan/ Gore logon kii ahmiyat ka apradhiiy gang
+
+🔗 References:
+
+[Ku Klux Klan](https://www.splcenter.org/fighting-hate/extremist-files/ideology/ku-klux-klan)
+
+["Why we voted for Donald Trump": David Duke explains the white supremacist Charlottesville protests](https://www.vox.com/2017/8/12/16138358/charlottesville-protests-david-duke-kkk)
 
 ## Covert White Supremacy 
 छुपा हुआ गोरेपन की अहमियत 
@@ -60,6 +120,8 @@ Chhupaa hua gorepan kii ahmiyat
 ### 11. Calling the Police on Black People	
 	काले लोगों पर पुलिस बुलाना 
 	Kaale logon par police bulaana
+	
+	
 
 ### 12. White Silence	
 	गोरे लोगों की चुप्पी/ सहमती	
