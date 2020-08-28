@@ -682,6 +682,6 @@ We will occasionally add words, update translations, and make other updates to t
 ## Credit & Use
 These translations are the contribution of [Dr. Gyanam Mahajan, Department of Asian Languages & Cultures, UCLA](https://www.alc.ucla.edu/person/gyanam-mahajan/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
-Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Dr. Gyanam Mahajan, https://github.com/SJSABox (2020)
+Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Dr. Gyanam Mahajan, [https://sjsabox.github.io/](https://sjsabox.github.io/) (2020)
 
 
