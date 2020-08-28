@@ -1,6 +1,10 @@
 # Anti-Blackness & White Supremacy Terms - Hindi Translations
 These are the Hindi translations for the popular White Supremacy 🔺 graphic featuring a set of 67 terms that describe overt &amp; covert forms of racism. The Hindi translations are accompanied with their English transliterations, and some handy links to 📰 articles and other 🎥 🎤 🎧 🎨 media that explain or are references for each concept.
 
+### [Punjabi Graphic](img/Hindi.png) | [Punjabi Transliterated Graphic](img/Hindi%20Transliteration.png) | [Original Graphic]()
+
+<img src="img/Hindi.png" height="350">   <img src="img/Hindi%20Transliteration.png" height="350">   <img src="img/Original.png" height="350">
+
 ## Who is this for?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -8,8 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 
 Below, each term is translated individually in the Devanagari script for Hindi, then transliterated into English for easier reading. Some terms also have an 📌 expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links 🔗 have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians in North America 🌎. 
-
-### [Hindi Graphic](img/Hindi.png) | [Hindi Transliterated Graphic](img/Hindi%20Transliteration.png) | [Original Graphic]()
 
 ## Overt White Supremacy  - खुले-आम गोरेपन की अहमियत  - Khule-aam gorepan kii ahmiyat
 
