@@ -1,5 +1,5 @@
 # Anti-Blackness & White Supremacy Terms - Hindi Translations
-These are the Hindi translations for the popular White Supremacy 🔺 graphic featuring a set of 67 terms that describe overt &amp; covert forms of racism. The Hindi translations are accompanied with their English transliterations, and some handy links to 📰 articles and other 🎥 🎤 🎧 🎨 media that explain or are references for each concept.
+These are the Hindi translations for the popular White Supremacy 🔺 graphic featuring a set of 67 terms that describe overt &amp; covert forms of racism. The Hindi translations are accompanied with their English transliterations, and some handy links to 📰 articles and other 🎥 🎤 🎧 🎨 media that explain or are references for each concept. (For other languages, please visit our [homepage](https://sjsabox.github.io).)
 
 ### [Hindi Graphic](img/Hindi.png) | [Hindi Transliterated Graphic](img/Hindi%20Transliteration.png) | [Original Graphic](img/Original.png)
 
@@ -7,9 +7,10 @@ These are the Hindi translations for the popular White Supremacy 🔺 graphic fe
 
 ## Who is this for?
 
-Many of us may simply understand racism as singular acts of hate or unkindness between ethnic groups when in reality, racism is a social construct that powers white supremacy via hidden systems of dominance. As we, South Asian Americans, mobilize as active citizens alongside Black Americans against racial injustices, it is important that we arm ourselves, our families, friends, coworkers, and social circles by investigating how white privilege is a legislative, economic, and cultural norm in this country. 
+Many of us may simply understand racism as singular acts of hate or unkindness between ethnic groups when in reality, racism is a social construct that powers white supremacy via hidden systems of dominance. As we, South Asian Americans, mobilize as active citizens alongside Black Americans against racial injustices, it is important that we arm ourselves, our families, friends, coworkers, and social circles by investigating how white privilege is a legislative, economic, and cultural norm in America. 
 
-We made this effort to translate forms of white supremacy into Punjabi to create some language that can help you reach across language and generation gaps and start conversations with people you know who may not have done this work yet. Additionally, we have added article & media links to further contextualize these concepts in the North American setting. Use this resource to educate yourself so that you may educate others.  
+We made this effort to translate forms of white supremacy into Hindi to create some language that can help you reach across language and generation gaps and start conversations with people you know who may not have done this work yet. Additionally, we have added article & media links to further contextualize these concepts in the North American setting. Use this resource to educate yourself so that you may educate others.  
+
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 
 Below, each term is translated individually in the Devanagari script for Hindi, then transliterated into English for easier reading. Some terms also have an 📌 expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links 🔗 have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians in North America 🌎. 
@@ -685,4 +686,4 @@ These translations are the contribution of [Dr. Gyanam Mahajan, Department of As
 
 Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Dr. Gyanam Mahajan, [https://sjsabox.github.io/](https://sjsabox.github.io/) (2020)
 
-
+Please use the hashtag #SJSAbox when sharing it on social media.
