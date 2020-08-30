@@ -3,7 +3,7 @@ These are the Hindi translations for the popular White Supremacy 🔺 graphic fe
 
 ### [Hindi Graphic](img/Hindi.png) | [Hindi Transliterated Graphic](img/Hindi%20Transliteration.png) | [Original Graphic]()
 
-<img src="img/Hindi.png" height="350">   <img src="img/Hindi%20Transliteration.png" height="350">   <img src="img/Original.png" height="350">
+<img src="img/Hindi.png" height="300">   <img src="img/Hindi%20Transliteration.png" height="300">   <img src="img/Original.png" height="300">
 
 ## Who is this for?
 
