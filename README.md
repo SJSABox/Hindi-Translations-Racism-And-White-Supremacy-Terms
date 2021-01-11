@@ -9,7 +9,9 @@ These are the Hindi translations for the popular White Supremacy 🔺 graphic fe
 
 Many of us may simply understand racism as singular acts of hate or unkindness between ethnic groups when in reality, racism is a social construct that powers white supremacy via hidden systems of dominance. As we, South Asian Americans, mobilize as active citizens alongside Black Americans against racial injustices, it is important that we arm ourselves, our families, friends, coworkers, and social circles by investigating how white privilege is a legislative, economic, and cultural norm in America. 
 
-We made this effort to translate forms of white supremacy into Hindi to create some language that can help you reach across language and generation gaps and start conversations with people you know who may not have done this work yet. Additionally, we have added article & media links to further contextualize these concepts in the North American setting. Use this resource to educate yourself so that you may educate others.  
+We made this effort to translate forms of white supremacy into Hindi to create some language that can help you reach across language and generation gaps and start conversations with people you know who may not have done this work yet. Additionally, we have added article & media links to further contextualize these concepts in the North American setting. Use this resource to educate yourself so that you may educate others. 
+
+👉🏿 [Get in touch with us in discussions.](https://github.com/SJSABox/Hindi-Translations-Racism-And-White-Supremacy-Terms/discussions/1) 👈🏻
 
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 
@@ -674,7 +676,9 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 
 See a spelling or syntax error? Want to suggest an alternative translation or offer a more relevant reference resources? We're happy to hear from you! Use the link below to submit a correction or comment.
 
-👉🏿 [Get in Touch!](https://github.com/SJSABox/Hindi-Translations-Racism-And-White-Supremacy-Terms/issues/new?assignees=&labels=&template=corrections---suggestions.md&title=%5BSuggestion%5D) 👈🏻
+👉🏿 [Get in touch or start a discussion.](https://github.com/SJSABox/Hindi-Translations-Racism-And-White-Supremacy-Terms/discussions/1) 👈🏻
+
+👉🏿 [Contribute or submit a correction!](https://github.com/SJSABox/Hindi-Translations-Racism-And-White-Supremacy-Terms/issues/new?assignees=&labels=&template=corrections---suggestions.md&title=%5BSuggestion%5D) 👈🏻
                          
 For more information on contributing to this repository please consult the contribution guidelines.
 
