@@ -534,7 +534,7 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 	
 🔗 References:
 
-['English Only': The movement to limit Spanish speaking in US](https://www.bbc.com/news/world-us-canada-50550742)
+["English Only": The movement to limit Spanish speaking in US](https://www.bbc.com/news/world-us-canada-50550742)
   
 ### 52. Self-Appointed White Ally	
 	गोरे लोग जो अपने आप मददगारी बनते हैं	
@@ -638,7 +638,7 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 	
 🔗 References:
 
-[I’m your black friend, but I won’t educate you about racism. That’s on you.](https://www.washingtonpost.com/outlook/2020/06/08/black-friends-educate-racism/)
+[I’m your black friend, but I won’t educate you about racism. That is on you.](https://www.washingtonpost.com/outlook/2020/06/08/black-friends-educate-racism/)
 
 ### 64. Believing We Are "Post-Racial"	
 	मानना कि हम अब नसलवाद छोड़ चुके है	
